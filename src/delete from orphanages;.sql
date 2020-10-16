@@ -1,0 +1,1 @@
+delete from orphanages where id=14;
